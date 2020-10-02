@@ -1,0 +1,13 @@
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.csprojAssemblyReference.cache
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.AssemblyInfoInputs.cache
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.AssemblyInfo.cs
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.csproj.CoreCompileInputs.cache
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\bin\Debug\netcoreapp3.1\lesson2.exe
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\bin\Debug\netcoreapp3.1\lesson2.deps.json
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\bin\Debug\netcoreapp3.1\lesson2.runtimeconfig.json
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\bin\Debug\netcoreapp3.1\lesson2.runtimeconfig.dev.json
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\bin\Debug\netcoreapp3.1\lesson2.dll
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\bin\Debug\netcoreapp3.1\lesson2.pdb
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.dll
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.pdb
+C:\Users\ДНС\Desktop\Учеба\1 - C# Level 1\1\lesson2\lesson2\obj\Debug\netcoreapp3.1\lesson2.genruntimeconfig.cache
